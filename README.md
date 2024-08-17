@@ -8,7 +8,7 @@ How to use and run
 
 Images or design 
   started with ASL
-  Translate to other language as other may not know english
+  Translate to other language as other may not know english   - Eg : translate.py -> this file is responsible for translation 
   Predict the word to save and fasten the communication
   Converting text to Speech
 
