@@ -16,13 +16,13 @@ Images or design
 
 
 some images from internet for all ASL symbols
+x![image](https://github.com/user-attachments/assets/2bed219a-c87f-458d-b615-fd31af71b296)
 
 all credit to the dataset 
-  sources of data set 
+  sources of data set: fer2013 dataset from kaggle
   
 videos help
-
+For emotion, this video was key to the process and great for explanation: https://www.youtube.com/watch?v=h0LoewzGzhc 
 You can mention what is our future plan or challenges that you have thought of
   1.  All the ASL are considering they are using there right hand - what if they use / comformatable in left hand - then these dastaset will not be useful
   2.  Present implementation is using laptop - need to implement the same on Raspberry Pi or ESP 32 using ESP 32 cam module
-  3.  
