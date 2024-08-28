@@ -3,8 +3,10 @@ This repository will allow one to display ASL through an camera and have it be r
 Motivation / Why we have created this: The motivation behind this project is to create new pathways and forms of communcation for those who are deaf and others.
 
 Libraries dependencies
+The libraries nescessary for this are numpy, math, cv2, traceback, pyttsx3, load_model, HandDetector, string, pyenchant, tkinter, googletrans, pickle, 
 
 How to use and run
+To use and run the program, the data first will be trained and then tested in the use of prediction and identification of sign language symbols.
 
 Images or design 
   started with ASL
