@@ -26,3 +26,4 @@ For emotion, this video was key to the process and great for explanation: https:
 You can mention what is our future plan or challenges that you have thought of
   1.  All the ASL are considering they are using there right hand - what if they use / comformatable in left hand - then these dastaset will not be useful
   2.  Present implementation is using laptop - need to implement the same on Raspberry Pi or ESP 32 using ESP 32 cam module
+  3.  We plan to use phrases in the future as well in order to further develop the communication
